@@ -1,0 +1,11 @@
+nvim/.config/nvim/plugin
+scripts/scripts/patch-spotify.sh
+xmonad/.config/xmonad/lib/Custom/MyMacAddresses.hs
+nvim/.config/nvim/lazy-lock.json
+spicetify/.config/spicetify/Backup
+spicetify/.config/spicetify/Extracted
+lazygit/.config/lazygit/state.yml
+eww/.config/eww/images/temp.png
+eww/.config/eww/\$XDG_CACHE_HOME/
+eww/.config/eww/scripts/__pycache__
+video/
